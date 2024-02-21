@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saravit
-- 👀 I’m interested in Big Data, Machine Learning, Deep Learning, IoT, Data Science.
+- 👀 I’m interested in Big Data, Machine Learning, Deep Learning, IoT, and NLP.
 - 🌱 I have graduated my master's in big data at Chungbuk National University
 - 📫 Reach me at www.soengsaravit.com
 
